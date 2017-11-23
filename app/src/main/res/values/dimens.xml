@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vorSize">50sp</dimen>
+    <dimen name="vorDimen">30sp</dimen>
+</resources>
